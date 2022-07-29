@@ -2,6 +2,9 @@ Hello!, This is Atharva Ghodki from MEMS Department. This project is about Credi
 MACHINE LEARNING (ML) and DS.
 * I had done my whole coding work in Google Collab and I had attached its file named "Credit_Card.ipynb".
 
+*IMP--> Please use 'creditcard.csv' file and make change in code by replacing "drive/MyDrive/creditcard.csv" to
+ to ".../creditcard.csv" where '...' represent your location of storage of thar file in your Drive. 
+
 * I have worked over this project in 3 phases as below--
   1. Learning Python and its IMP Libraries.
   2. Learning all about basic ML up to Classifiers (Logistic Regression).
